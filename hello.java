@@ -11,6 +11,7 @@ public class hello{
 					int temp=attr[j];
 					attr[j]=attr[j+1];
 					attr[j+1]=temp;
+					System.out.println("hello world");
 				}
 			}
 		}
